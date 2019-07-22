@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822047911843",
+    "firebase_url": "https://cdpcdemo.firebaseio.com",
+    "project_id": "cdpcdemo",
+    "storage_bucket": "cdpcdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822047911843:android:57e76844ac90e2e1",
+        "android_client_info": {
+          "package_name": "com.example.cdpcdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822047911843-9lhc2l75vrfvulfjn8o2bmmm4ifso7k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cdpcdemo",
+            "certificate_hash": "fdf8b898d99b568858527cf34b25279811855fa3"
+          }
+        },
+        {
+          "client_id": "822047911843-t1pbtk37frutu70l5uff9k5ckoeoknr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZ0C3O_lDAKhvHEQQNdlXSBwHe5y9lUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822047911843-t1pbtk37frutu70l5uff9k5ckoeoknr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

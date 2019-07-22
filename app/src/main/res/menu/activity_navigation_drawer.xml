@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_drives"
+            android:title="Drives"
+            android:icon="@drawable/ic_drives"
+            />
+        <item
+            android:id="@+id/nav_placementStatistics"
+            android:title="Placement Statistics"
+            android:icon="@drawable/ic_placement_statistics"
+            />
+        <item
+            android:id="@+id/nav_trackcharges"
+            android:title="Track charges"
+            android:icon="@drawable/ic_track_changes"
+            />
+        <item
+            android:icon="@drawable/ic_shuffle"
+            android:id="@+id/nav_shuffle"
+            android:title="Shuffle"/>
+        <item
+            android:icon="@drawable/ic_internshipform"
+            android:id="@+id/nav_internshipforms"
+            android:title="Internship Forms"/>
+        <item
+            android:icon="@drawable/ic_cdpcteam"
+            android:id="@+id/nav_cdpcteam"
+            android:title="CDPC Team"/>
+        <item
+            android:icon="@drawable/ic_rate"
+            android:id="@+id/nav_rate"
+            android:title="Rate this app" />
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Sign Out" />
+
+    </group>
+</menu>
